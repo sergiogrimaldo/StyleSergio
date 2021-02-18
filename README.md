@@ -1,6 +1,4 @@
-@@ -1,4 +1,4 @@
-### ¡Hola! // Hi there! 👋 
-###  ¡Hola! // Hi there! 
+### ¡Hola! // Hi there! 
 
 Mi nombre es Sergio Grimaldo, estudiante de Ingenieria de sistemas en Uniminuto (Bogotá). Recientemente terminé de aprender en Henry, que es una nueva academia remota de Argentina.
 Actualmente estoy creando, diseñando, actualizando y manteniendo sitios webs, ya sea del lado del cliente (Front-end, UX / UI) como del lado del servidor (Back-end).
